@@ -18,7 +18,7 @@ AIChat is a simple yet powerful web-based chatbot that leverages Google's Gemini
 
 ## Preview
 
-![AIChat Screenshot]([![image](preview)](https://github.com/NuelEzeiruaku/Chatbox-Project/blob/main/preview.png?raw=true))
+![AIChat Screenshot](https://github.com/NuelEzeiruaku/Chatbox-Project/blob/main/preview.png?raw=true)
 
 ## Live Demo
 
