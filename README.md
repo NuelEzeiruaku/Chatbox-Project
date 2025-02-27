@@ -40,7 +40,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Google for providing the Gemini API
-- All contributors and testers
 - Open source JavaScript community
 
 ---
