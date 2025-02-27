@@ -16,16 +16,13 @@ AIChat is a simple yet powerful web-based chatbot that leverages Google's Gemini
 - 🌙 Light/dark mode toggle
 - 📝 Conversation history (session-based)
 
-## Demo
+## Preview
 
-![GeminiChat Screenshot](![image](https://github.com/user-attachments/assets/b05f4888-67d3-4f9f-84ee-7d225b50b29c))
-
-## Quick Start
+![GeminiChat Screenshot](![image](preview))
 
 ## Live Demo
 
 Try out AIChat live: [https://aichatbotnuelezeiruaku.netlify.app/](https://aichatbotnuelezeiruaku.netlify.app/)
-
 
 ## Limitations
 
