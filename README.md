@@ -1,10 +1,10 @@
-# GeminiChat
+# AIChat
 
 A lightweight, interactive AI chatbot built with HTML, CSS, JavaScript, and the Gemini API.
 
 ## Overview
 
-SimpliChat is a simple yet powerful web-based chatbot that leverages Google's Gemini API to provide intelligent conversations without relying on real-time information. This project offers a clean, responsive interface for seamless interaction with the AI.
+AIChat is a simple yet powerful web-based chatbot that leverages Google's Gemini API to provide intelligent conversations without relying on real-time information. This project offers a clean, responsive interface for seamless interaction with the AI.
 
 ## Features
 
@@ -22,6 +22,9 @@ SimpliChat is a simple yet powerful web-based chatbot that leverages Google's Ge
 
 ## Quick Start
 
+## Live Demo
+
+Try out AIChat live: [https://aichatbotnuelezeiruaku.netlify.app/](https://aichatbotnuelezeiruaku.netlify.app/)
 
 
 ## Limitations
