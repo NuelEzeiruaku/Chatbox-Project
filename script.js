@@ -14,7 +14,7 @@
 
     // API info
     const CONFIG = {
-      API_KEY: "AIzaSyC1LpcxLNrzGC8AGOnW95mk5i_T0_DayUM",
+      API_KEY: "API_KEY",
       MODEL: "gemini-1.5-flash" 
     };
     
